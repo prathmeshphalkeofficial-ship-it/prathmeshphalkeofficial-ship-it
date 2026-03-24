@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hi 👋, I'm Prathmesh Phalke
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:00FFAA&height=200&section=header&text=Prathmesh%20Phalke&fontSize=40&fontColor=ffffff"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+👋+I'm+Prathmesh;Full+Stack+Developer;AI+%26+Automation+Builder;Always+Building+🚀&center=true&width=600&height=50">
