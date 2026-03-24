@@ -1,3 +1,12 @@
+<h1 align="center">
+  Hi 👋, I'm Prathmesh Phalke
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Tools+Builder;Automation+Expert;Building+Cool+Things+🚀&center=true&width=500&height=45">
+</p>
+
+
 # 💫 About Me:
 🛠️ I’m currently working on<br>Building AI-powered web apps and automation tools, including chatbot systems and smart scraping solutions.<br><br>🤝 I’m looking to collaborate on<br>Innovative projects in AI, SaaS, and full-stack development — especially real-world problem-solving products.<br><br>🙌 I’m looking for help with<br>Scaling projects, advanced backend architecture, and improving UI/UX for production-level apps.<br><br>🌱 I’m currently learning<br>Advanced JavaScript frameworks, system design, and AI integrations for modern web applications.<br><br>💬 Ask me about<br>Web development, automation tools, chatbot building, and launching tech projects from scratch.<br><br>⚡ Fun fact<br>I love turning simple ideas into powerful products — and I’m always building something new 🚀
 
