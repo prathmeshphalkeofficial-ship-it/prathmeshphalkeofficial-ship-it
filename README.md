@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:00ADB5&height=280&section=header&text=Prathmesh%20Phalke&fontSize=55&fontColor=00FFAA&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20Automation%20Expert&descAlignY=60&descSize=20" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:00FFAA&height=200&section=header&text=Prathmesh%20Phalke&fontSize=40&fontColor=ffffff"/>
 </p>
 
@@ -33,6 +37,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=prathmeshphalkeofficial-ship-it&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/prathmeshphalkeofficial-ship-it=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:0f172a&height=150&section=footer"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
