@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+👋+I'm+Prathmesh;Full+Stack+Developer;AI+%26+Automation+Builder;Always+Building+Something+🚀&center=true&width=600&height=50&color=00ADB5&vCenter=true&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+👋+I'm+Prathmesh;Full+Stack+Developer;AI+%26+Automation+Builder;Always+Building+🚀&center=true&width=600&height=50">
 </p>
 
 
